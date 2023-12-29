@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-29T16:02:45 IST" name="Default suite" finished-at="2023-12-29T16:04:17 IST" duration-ms="91213">
+    <groups>
+    </groups>
+    <test started-at="2023-12-29T16:02:45 IST" name="Default test" finished-at="2023-12-29T16:04:17 IST" duration-ms="91213">
+      <class name="com.agl.e_genie.testcase.Campaign_Manager_Testcase">
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.agl.e_genie.testcase.Campaign_Manager_Testcase@7f485fda]" started-at="2023-12-29T16:02:44 IST" name="tearUp" finished-at="2023-12-29T16:02:45 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method is-config="true" signature="beforeTestCaseClass()[pri:0, instance:com.agl.e_genie.testcase.Campaign_Manager_Testcase@7f485fda]" started-at="2023-12-29T16:02:45 IST" name="beforeTestCaseClass" finished-at="2023-12-29T16:02:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCaseClass -->
+        <test-method is-config="true" signature="beforeTestCase(java.lang.reflect.Method)[pri:0, instance:com.agl.e_genie.testcase.Campaign_Manager_Testcase@7f485fda]" started-at="2023-12-29T16:02:46 IST" name="beforeTestCase" finished-at="2023-12-29T16:03:12 IST" duration-ms="26312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.agl.e_genie.testcase.Campaign_Manager_Testcase.homePageTestcase()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="homePageTestcase()[pri:0, instance:com.agl.e_genie.testcase.Campaign_Manager_Testcase@7f485fda]" started-at="2023-12-29T16:03:12 IST" name="homePageTestcase" finished-at="2023-12-29T16:04:15 IST" duration-ms="63632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTestcase -->
+        <test-method is-config="true" signature="afterTestCase(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:com.agl.e_genie.testcase.Campaign_Manager_Testcase@7f485fda]" started-at="2023-12-29T16:04:15 IST" name="afterTestCase" finished-at="2023-12-29T16:04:17 IST" duration-ms="1179" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homePageTestcase status=SUCCESS method=Campaign_Manager_Testcase.homePageTestcase()[pri:0, instance:com.agl.e_genie.testcase.Campaign_Manager_Testcase@7f485fda] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.agl.e_genie.testcase.Campaign_Manager_Testcase.homePageTestcase()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="afterTestCaseClass()[pri:0, instance:com.agl.e_genie.testcase.Campaign_Manager_Testcase@7f485fda]" started-at="2023-12-29T16:04:17 IST" name="afterTestCaseClass" finished-at="2023-12-29T16:04:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCaseClass -->
+      </class> <!-- com.agl.e_genie.testcase.Campaign_Manager_Testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
